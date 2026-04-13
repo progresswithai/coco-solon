@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.societysalons.com	TRUE	/	FALSE	1999999999	_cfuvid	yWuyWvGNT4sWDmjLrksFPumGDpvJ93.IXlLE3WtRVbA-1775744408926-0.0.1.1-604800000
+www.societysalons.com	TRUE	/	FALSE	1999999999	_cfuvid	VhmnUzck5ItspB36NsXOAqpQweELXivwk06T5c5ff04-1775744409.0275505-1.0.1.1-8NXrOjVcTEDjPm5FlGoM8EAuxEjLpjqyNIQ2lYc4fvQ
+www.societysalons.com	TRUE	/	FALSE	1999999999	SameSite	None
+
